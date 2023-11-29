@@ -1,0 +1,93 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+
+    <ImageView
+        android:id="@+id/myImageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/top_end"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10sp"
+        android:layout_marginRight="10sp"/>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutCenter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="16dp">
+
+        <TextView
+            android:id="@+id/textViewHeadline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome back!\nGlad to see you, Again!"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:paddingTop="16dp"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:lineHeight="46sp"
+            android:textColor="#333333"/>
+
+        <EditText
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your email"
+            android:layout_below="@+id/textViewHeadline"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edittext_bg"
+            android:padding="20dp"
+            android:inputType="textEmailAddress|textAutoCorrect"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:id="@+id/editTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your password"
+            android:layout_below="@+id/editTextEmail"
+            android:layout_marginTop="16dp"
+            android:padding="20dp"
+            android:background="@drawable/edittext_bg"
+            android:inputType="textPassword"
+            android:ems="10"
+            app:passwordToggleEnabled="true"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/textViewForgotPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forgot Password"
+            android:layout_below="@+id/editTextPassword"
+            android:layout_alignParentEnd="true"
+            android:paddingTop="16dp"/>
+
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:layout_below="@+id/textViewForgotPassword"
+            android:layout_marginTop="16dp"
+            android:padding="16dp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textViewRegisterNow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don’t have an account? Register Now"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="16dp"/>
+</RelativeLayout>

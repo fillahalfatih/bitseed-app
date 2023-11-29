@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bitseed"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <queries>
+
+        <!-- Needs to be explicitly declared on Android R+ -->
+        <package android:name="com.google.android.apps.maps" />
+    </queries>
+
+    <permission
+        android:name="com.example.bitseed.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.bitseed.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.BitSeed" >
+        <activity
+            android:name="com.example.bitseed.Begonia"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.LidahMertua"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Anggrek"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Wortel"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Kentang"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Pakcoy"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Tomat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.LearnAnorganik"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.LearnOrganik"
+            android:exported="false" />
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB4ka_EEBtKSATpuCbfUMD5wS_P_cZj3aQ" />
+
+        <activity
+            android:name="com.example.bitseed.ShopMaps"
+            android:exported="false"
+            android:label="@string/title_activity_shop_maps" />
+        <activity
+            android:name="com.example.bitseed.Chatbot"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Komunitas"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Favorit"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.LearnHias"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.LearnSayur"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Durian"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Pepaya"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Pisang"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.ApelFuji"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.ManggaKio"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.test"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.LearnBuah"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Profile"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Shop"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Learn"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.HomePage"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Register"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bitseed.SplashScreen"
+            android:exported="true"
+            android:theme="@style/Theme.BitSeed" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.bitseed.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+            android:exported="false"
+            android:label="@string/places_autocomplete_label"
+            android:theme="@style/PlacesAutocompleteOverlay"
+            android:windowSoftInputMode="adjustResize" >
+        </activity> <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.bitseed.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

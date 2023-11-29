@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_card_bagian_3.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/card_bagian_3.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_top_end.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/top_end.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_komunitas.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_komunitas.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_favorit.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_favorit.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_kiwi.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/kiwi.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_square_pattern.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/square_pattern.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_tomat.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_tomat.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_edittext_bg.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_store_1.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/store_1.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_wortel.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/wortel.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_menu_container.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/menu_container.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_papaya.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/papaya.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_bg_pp.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/bg_pp.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_menu_card.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/menu_card.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_pakcoy.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/pakcoy.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_organik_2.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/organik_2.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_profile.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_pepaya.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_pepaya.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_bottom_start.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/bottom_start.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_chat_item.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_profile.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_lidah_mertua.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/lidah_mertua.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_favorit.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/favorit.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_card_image_bg.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/card_image_bg.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_anggrek.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_anggrek.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_card_bagian_1.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/card_bagian_1.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_organik_3.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/organik_3.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_begonia.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/begonia.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_anorganik_3.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/anorganik_3.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_pisang.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/pisang.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_learn.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_pupuk_organik_1.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/pupuk_organik_1.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_mangga_kio.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/mangga_kio.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_love_filled.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/love_filled.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_test.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_test.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_tutorial_detail.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/tutorial_detail.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_baseline_send_24.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/baseline_send_24.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/xml_network_security_config.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_profile_filled.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/profile_filled.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_rounded_white_base.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/rounded_white_base.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_home_filled.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/home_filled.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_plant.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/plant.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_shop_maps.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_shop_maps.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_store_2.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/store_2.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_learn_sayur.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_sayur.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_mangga_kio.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_mangga_kio.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_wortel.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_wortel.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_home.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_notif.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/notif.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_back.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_splash_logo.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/splash_logo.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_anggrek.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/anggrek.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_begonia.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_begonia.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_icon_tanaman.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/icon_tanaman.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_chatbot.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/chatbot.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_home_page.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_apel_fuji.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_apel_fuji.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_kentang.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/kentang.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_love.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/love.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_pepaya.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/pepaya.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_pakcoy.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_pakcoy.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_square_pattern_white.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/square_pattern_white.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_tomat.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/tomat.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_apel_fuji.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/apel_fuji.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_navigation_bg_top.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/navigation_bg_top.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_learn_buah.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_buah.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_learn_filled.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/learn_filled.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_durian.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_durian.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_location.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/location.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_anorganik.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/anorganik.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_durian.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/durian.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_stroke_button_bg.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/stroke_button_bg.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_ic_search.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/ic_search.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_navigation_bg.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/navigation_bg.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_shop.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/shop.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_kentang.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_kentang.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_learn_hias.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_hias.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_store_3.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/store_3.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_chatbot.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_chatbot.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_pisang.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_pisang.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_lidah_mertua.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_lidah_mertua.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_card_individual.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/card_individual.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_shop_filled.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/shop_filled.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_card_bagian_2.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/card_bagian_2.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_learn_anorganik.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_anorganik.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_shop.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_shop.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_icon_sayur.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/icon_sayur.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_komunitas.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/komunitas.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_learn.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/learn.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_plant_full.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/plant_full.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_register.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/drawable_icon_buah.png.flat",
+        "source": "com.example.bitseed.app-main-38:/drawable/icon_buah.png"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitseed.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitseed.app-merged_res-36:/layout_activity_learn_organik.xml.flat",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_organik.xml"
+    }
+]

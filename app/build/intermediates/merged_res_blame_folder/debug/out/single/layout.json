@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_home_page.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_apel_fuji.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_apel_fuji.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_chatbot.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_chatbot.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_lidah_mertua.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_lidah_mertua.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_anorganik.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_anorganik.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_anggrek.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_anggrek.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_wortel.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_wortel.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_begonia.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_begonia.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_shop.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_shop.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/chat_item.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_profile.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_buah.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_buah.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_organik.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_organik.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_pepaya.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_pepaya.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_shop_maps.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_shop_maps.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_pisang.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_pisang.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_test.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_test.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_mangga_kio.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_mangga_kio.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_komunitas.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_komunitas.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_tomat.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_tomat.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_durian.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_durian.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_sayur.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_sayur.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_hias.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_hias.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_favorit.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_favorit.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_kentang.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_kentang.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_register.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/tutorial_detail.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/tutorial_detail.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_splash_screen.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_pakcoy.xml",
+        "source": "com.example.bitseed.app-main-38:/layout/activity_pakcoy.xml"
+    }
+]

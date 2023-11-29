@@ -1,0 +1,10 @@
+<!-- menu_card_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Latar belakang berwarna putih -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" /> <!-- Warna latar belakang -->
+            <corners android:radius="8dp" /> <!-- Radius batas (sesuaikan sesuai kebutuhan) -->
+        </shape>
+    </item>
+</layer-list>
