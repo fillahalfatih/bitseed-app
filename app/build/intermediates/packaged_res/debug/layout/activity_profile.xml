@@ -75,7 +75,7 @@
                 android:background="@drawable/card_individual">
 
                 <TextView
-                    android:id="@+id/tvEmail"
+                    android:id="@+id/emailPengguna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textAlignment="center"
@@ -86,6 +86,7 @@
                     android:textStyle="bold"/>
 
                 <TextView
+                    android:id="@+id/statusPengguna"
                     android:textSize="16sp"
                     android:textColor="@color/white"
                     android:textAlignment="center"

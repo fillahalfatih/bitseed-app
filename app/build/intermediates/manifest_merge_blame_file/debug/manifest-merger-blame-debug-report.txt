@@ -59,7 +59,7 @@
 34-->[androidx.core:core:1.9.0] C:\Users\ACER\.gradle\caches\transforms-3\f2b95613c0af0faaea96617c06c789f0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 35
 36    <application
-36-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:12:5-135:19
+36-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:12:5-138:19
 37        android:allowBackup="true"
 37-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:13:9-35
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -83,347 +83,353 @@
 48-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:20:9-45
 49        <activity
 49-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:22:9-24:40
-50            android:name="com.example.bitseed.Begonia"
-50-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:23:13-36
+50            android:name="com.example.bitseed.Edit"
+50-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:23:13-33
 51            android:exported="false" />
 51-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:24:13-37
 52        <activity
 52-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:25:9-27:40
-53            android:name="com.example.bitseed.LidahMertua"
-53-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:26:13-40
+53            android:name="com.example.bitseed.Begonia"
+53-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:26:13-36
 54            android:exported="false" />
 54-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:27:13-37
 55        <activity
 55-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:28:9-30:40
-56            android:name="com.example.bitseed.Anggrek"
-56-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:29:13-36
+56            android:name="com.example.bitseed.LidahMertua"
+56-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:29:13-40
 57            android:exported="false" />
 57-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:30:13-37
 58        <activity
 58-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:31:9-33:40
-59            android:name="com.example.bitseed.Wortel"
-59-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:32:13-35
+59            android:name="com.example.bitseed.Anggrek"
+59-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:32:13-36
 60            android:exported="false" />
 60-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:33:13-37
 61        <activity
 61-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:34:9-36:40
-62            android:name="com.example.bitseed.Kentang"
-62-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:35:13-36
+62            android:name="com.example.bitseed.Wortel"
+62-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:35:13-35
 63            android:exported="false" />
 63-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:36:13-37
 64        <activity
 64-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:37:9-39:40
-65            android:name="com.example.bitseed.Pakcoy"
-65-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:38:13-35
+65            android:name="com.example.bitseed.Kentang"
+65-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:38:13-36
 66            android:exported="false" />
 66-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:39:13-37
 67        <activity
 67-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:40:9-42:40
-68            android:name="com.example.bitseed.Tomat"
-68-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:41:13-34
+68            android:name="com.example.bitseed.Pakcoy"
+68-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:41:13-35
 69            android:exported="false" />
 69-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:42:13-37
 70        <activity
 70-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:43:9-45:40
-71            android:name="com.example.bitseed.LearnAnorganik"
-71-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:44:13-43
+71            android:name="com.example.bitseed.Tomat"
+71-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:44:13-34
 72            android:exported="false" />
 72-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:45:13-37
 73        <activity
 73-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:46:9-48:40
-74            android:name="com.example.bitseed.LearnOrganik"
-74-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:47:13-41
+74            android:name="com.example.bitseed.LearnAnorganik"
+74-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:47:13-43
 75            android:exported="false" />
 75-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:48:13-37
-76        <!--
-77             TODO: Before you run your application, you need a Google Maps API key.
-78
-79             To get one, follow the directions here:
-80
-81                https://developers.google.com/maps/documentation/android-sdk/get-api-key
-82
-83             Once you have your API key (it starts with "AIza"), define a new property in your
-84             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
-85             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
-86        -->
-87        <meta-data
-87-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:60:9-62:71
-88            android:name="com.google.android.geo.API_KEY"
-88-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:61:13-58
-89            android:value="AIzaSyB4ka_EEBtKSATpuCbfUMD5wS_P_cZj3aQ" />
-89-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:62:13-68
-90
-91        <activity
-91-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:64:9-67:64
-92            android:name="com.example.bitseed.ShopMaps"
-92-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:65:13-37
-93            android:exported="false"
-93-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:66:13-37
-94            android:label="@string/title_activity_shop_maps" />
-94-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:67:13-61
-95        <activity
-95-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:68:9-70:40
-96            android:name="com.example.bitseed.Chatbot"
-96-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:69:13-36
-97            android:exported="false" />
-97-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:70:13-37
+76        <activity
+76-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:49:9-51:40
+77            android:name="com.example.bitseed.LearnOrganik"
+77-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:50:13-41
+78            android:exported="false" />
+78-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:51:13-37
+79        <!--
+80             TODO: Before you run your application, you need a Google Maps API key.
+81
+82             To get one, follow the directions here:
+83
+84                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+85
+86             Once you have your API key (it starts with "AIza"), define a new property in your
+87             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+88             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+89        -->
+90        <meta-data
+90-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:63:9-65:71
+91            android:name="com.google.android.geo.API_KEY"
+91-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:64:13-58
+92            android:value="AIzaSyB4ka_EEBtKSATpuCbfUMD5wS_P_cZj3aQ" />
+92-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:65:13-68
+93
+94        <activity
+94-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:67:9-70:64
+95            android:name="com.example.bitseed.ShopMaps"
+95-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:68:13-37
+96            android:exported="false"
+96-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:69:13-37
+97            android:label="@string/title_activity_shop_maps" />
+97-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:70:13-61
 98        <activity
 98-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:71:9-73:40
-99            android:name="com.example.bitseed.Komunitas"
-99-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:72:13-38
+99            android:name="com.example.bitseed.Chatbot"
+99-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:72:13-36
 100            android:exported="false" />
 100-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:73:13-37
 101        <activity
 101-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:74:9-76:40
-102            android:name="com.example.bitseed.Favorit"
-102-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:75:13-36
+102            android:name="com.example.bitseed.Komunitas"
+102-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:75:13-38
 103            android:exported="false" />
 103-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:76:13-37
 104        <activity
 104-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:77:9-79:40
-105            android:name="com.example.bitseed.LearnHias"
-105-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:78:13-38
+105            android:name="com.example.bitseed.Favorit"
+105-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:78:13-36
 106            android:exported="false" />
 106-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:79:13-37
 107        <activity
 107-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:80:9-82:40
-108            android:name="com.example.bitseed.LearnSayur"
-108-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:81:13-39
+108            android:name="com.example.bitseed.LearnHias"
+108-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:81:13-38
 109            android:exported="false" />
 109-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:82:13-37
 110        <activity
 110-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:83:9-85:40
-111            android:name="com.example.bitseed.Durian"
-111-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:84:13-35
+111            android:name="com.example.bitseed.LearnSayur"
+111-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:84:13-39
 112            android:exported="false" />
 112-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:85:13-37
 113        <activity
 113-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:86:9-88:40
-114            android:name="com.example.bitseed.Pepaya"
+114            android:name="com.example.bitseed.Durian"
 114-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:87:13-35
 115            android:exported="false" />
 115-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:88:13-37
 116        <activity
 116-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:89:9-91:40
-117            android:name="com.example.bitseed.Pisang"
+117            android:name="com.example.bitseed.Pepaya"
 117-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:90:13-35
 118            android:exported="false" />
 118-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:91:13-37
 119        <activity
 119-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:92:9-94:40
-120            android:name="com.example.bitseed.ApelFuji"
-120-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:93:13-37
+120            android:name="com.example.bitseed.Pisang"
+120-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:93:13-35
 121            android:exported="false" />
 121-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:94:13-37
 122        <activity
 122-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:95:9-97:40
-123            android:name="com.example.bitseed.ManggaKio"
-123-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:96:13-38
+123            android:name="com.example.bitseed.ApelFuji"
+123-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:96:13-37
 124            android:exported="false" />
 124-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:97:13-37
 125        <activity
 125-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:98:9-100:40
-126            android:name="com.example.bitseed.test"
-126-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:99:13-33
+126            android:name="com.example.bitseed.ManggaKio"
+126-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:99:13-38
 127            android:exported="false" />
 127-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:100:13-37
 128        <activity
 128-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:101:9-103:40
-129            android:name="com.example.bitseed.LearnBuah"
-129-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:102:13-38
+129            android:name="com.example.bitseed.test"
+129-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:102:13-33
 130            android:exported="false" />
 130-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:103:13-37
 131        <activity
 131-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:104:9-106:40
-132            android:name="com.example.bitseed.Profile"
-132-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:105:13-36
+132            android:name="com.example.bitseed.LearnBuah"
+132-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:105:13-38
 133            android:exported="false" />
 133-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:106:13-37
 134        <activity
 134-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:107:9-109:40
-135            android:name="com.example.bitseed.Shop"
-135-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:108:13-33
+135            android:name="com.example.bitseed.Profile"
+135-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:108:13-36
 136            android:exported="false" />
 136-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:109:13-37
 137        <activity
 137-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:110:9-112:40
-138            android:name="com.example.bitseed.Learn"
-138-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:111:13-34
+138            android:name="com.example.bitseed.Shop"
+138-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:111:13-33
 139            android:exported="false" />
 139-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:112:13-37
 140        <activity
 140-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:113:9-115:40
-141            android:name="com.example.bitseed.HomePage"
-141-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:114:13-37
+141            android:name="com.example.bitseed.Learn"
+141-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:114:13-34
 142            android:exported="false" />
 142-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:115:13-37
 143        <activity
 143-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:116:9-118:40
-144            android:name="com.example.bitseed.Register"
+144            android:name="com.example.bitseed.HomePage"
 144-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:117:13-37
 145            android:exported="false" />
 145-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:118:13-37
 146        <activity
 146-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:119:9-121:40
-147            android:name="com.example.bitseed.Login"
-147-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:120:13-34
+147            android:name="com.example.bitseed.Register"
+147-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:120:13-37
 148            android:exported="false" />
 148-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:121:13-37
 149        <activity
-149-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:122:9-131:20
-150            android:name="com.example.bitseed.SplashScreen"
-150-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:123:13-41
-151            android:exported="true"
-151-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:124:13-36
-152            android:theme="@style/Theme.BitSeed" >
-152-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:125:13-49
-153            <intent-filter>
-153-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:126:13-130:29
-154                <action android:name="android.intent.action.MAIN" />
-154-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:127:17-69
-154-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:127:25-66
-155
-156                <category android:name="android.intent.category.LAUNCHER" />
-156-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:129:17-77
-156-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:129:27-74
-157            </intent-filter>
-158        </activity>
-159        <activity
-159-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:132:9-134:40
-160            android:name="com.example.bitseed.MainActivity"
-160-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:133:13-41
-161            android:exported="false" />
-161-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:134:13-37
+149-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:122:9-124:40
+150            android:name="com.example.bitseed.Login"
+150-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:123:13-34
+151            android:exported="false" />
+151-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:124:13-37
+152        <activity
+152-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:125:9-134:20
+153            android:name="com.example.bitseed.SplashScreen"
+153-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:126:13-41
+154            android:exported="true"
+154-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:127:13-36
+155            android:theme="@style/Theme.BitSeed" >
+155-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:128:13-49
+156            <intent-filter>
+156-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:129:13-133:29
+157                <action android:name="android.intent.action.MAIN" />
+157-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:130:17-69
+157-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:130:25-66
+158
+159                <category android:name="android.intent.category.LAUNCHER" />
+159-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:132:17-77
+159-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:132:27-74
+160            </intent-filter>
+161        </activity>
 162        <activity
-162-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:15:9-21:20
-163            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
-163-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:16:13-91
-164            android:exported="false"
-164-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:17:13-37
-165            android:label="@string/places_autocomplete_label"
-165-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:18:13-62
-166            android:theme="@style/PlacesAutocompleteOverlay"
-166-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:19:13-61
-167            android:windowSoftInputMode="adjustResize" >
-167-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:20:13-55
-168        </activity> <!-- Needs to be explicitly declared on P+ -->
-169        <uses-library
-169-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ACER\.gradle\caches\transforms-3\9ef71731814085440b129fe217062c61\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
-170            android:name="org.apache.http.legacy"
-170-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ACER\.gradle\caches\transforms-3\9ef71731814085440b129fe217062c61\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
-171            android:required="false" />
-171-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ACER\.gradle\caches\transforms-3\9ef71731814085440b129fe217062c61\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
-172
-173        <provider
-173-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-174            android:name="androidx.startup.InitializationProvider"
-174-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-175            android:authorities="com.example.bitseed.androidx-startup"
-175-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-176            android:exported="false" >
-176-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-177            <meta-data
-177-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-178                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-178-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-179                android:value="androidx.startup" />
-179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+162-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:135:9-137:40
+163            android:name="com.example.bitseed.MainActivity"
+163-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:136:13-41
+164            android:exported="false" />
+164-->C:\Users\ACER\AndroidStudioProjects\BitSeed\app\src\main\AndroidManifest.xml:137:13-37
+165        <activity
+165-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:15:9-21:20
+166            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+166-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:16:13-91
+167            android:exported="false"
+167-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:17:13-37
+168            android:label="@string/places_autocomplete_label"
+168-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:18:13-62
+169            android:theme="@style/PlacesAutocompleteOverlay"
+169-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:19:13-61
+170            android:windowSoftInputMode="adjustResize" >
+170-->[com.google.android.libraries.places:places:2.7.0] C:\Users\ACER\.gradle\caches\transforms-3\3d69ea5b0541ea642164fc1252cbee9a\transformed\places-2.7.0\AndroidManifest.xml:20:13-55
+171        </activity> <!-- Needs to be explicitly declared on P+ -->
+172        <uses-library
+172-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ACER\.gradle\caches\transforms-3\9ef71731814085440b129fe217062c61\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+173            android:name="org.apache.http.legacy"
+173-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ACER\.gradle\caches\transforms-3\9ef71731814085440b129fe217062c61\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+174            android:required="false" />
+174-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ACER\.gradle\caches\transforms-3\9ef71731814085440b129fe217062c61\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+175
+176        <provider
+176-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+177            android:name="androidx.startup.InitializationProvider"
+177-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+178            android:authorities="com.example.bitseed.androidx-startup"
+178-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+179            android:exported="false" >
+179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 180            <meta-data
-180-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ACER\.gradle\caches\transforms-3\272efc8d88780310145a77246211a956\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-181                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-181-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ACER\.gradle\caches\transforms-3\272efc8d88780310145a77246211a956\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+180-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+181                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+181-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 182                android:value="androidx.startup" />
-182-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ACER\.gradle\caches\transforms-3\272efc8d88780310145a77246211a956\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+182-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ACER\.gradle\caches\transforms-3\90a9be36f81f1aa758f46fa7a29e6492\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 183            <meta-data
-183-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-184                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-184-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+183-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ACER\.gradle\caches\transforms-3\272efc8d88780310145a77246211a956\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+184                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+184-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ACER\.gradle\caches\transforms-3\272efc8d88780310145a77246211a956\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
 185                android:value="androidx.startup" />
-185-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-186        </provider>
-187
-188        <activity
-188-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-189            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-189-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-190            android:exported="false"
-190-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-191            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-191-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-192
-193        <meta-data
-193-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ACER\.gradle\caches\transforms-3\180cf0eb03cf1cc5f58a6caeffc2606f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-194            android:name="com.google.android.gms.version"
-194-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ACER\.gradle\caches\transforms-3\180cf0eb03cf1cc5f58a6caeffc2606f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-195            android:value="@integer/google_play_services_version" />
-195-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ACER\.gradle\caches\transforms-3\180cf0eb03cf1cc5f58a6caeffc2606f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-196
-197        <service
-197-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
-198            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-198-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
-199            android:exported="false" >
-199-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
-200            <meta-data
-200-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
-201                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-201-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
-202                android:value="cct" />
-202-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
-203        </service>
-204        <service
-204-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
-205            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-205-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
-206            android:exported="false"
-206-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
-207            android:permission="android.permission.BIND_JOB_SERVICE" >
-207-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
-208        </service>
-209
-210        <receiver
-210-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
-211            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-211-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
-212            android:exported="false" />
-212-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+185-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ACER\.gradle\caches\transforms-3\272efc8d88780310145a77246211a956\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+186            <meta-data
+186-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+187                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+187-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+188                android:value="androidx.startup" />
+188-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+189        </provider>
+190
+191        <activity
+191-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+192            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+192-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+193            android:exported="false"
+193-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+194            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+194-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ACER\.gradle\caches\transforms-3\735749750f8f95cb9be5016b58859d40\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+195
+196        <meta-data
+196-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ACER\.gradle\caches\transforms-3\180cf0eb03cf1cc5f58a6caeffc2606f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+197            android:name="com.google.android.gms.version"
+197-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ACER\.gradle\caches\transforms-3\180cf0eb03cf1cc5f58a6caeffc2606f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+198            android:value="@integer/google_play_services_version" />
+198-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ACER\.gradle\caches\transforms-3\180cf0eb03cf1cc5f58a6caeffc2606f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+199
+200        <service
+200-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+201            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+201-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+202            android:exported="false" >
+202-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+203            <meta-data
+203-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+204                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+204-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+205                android:value="cct" />
+205-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\ACER\.gradle\caches\transforms-3\adea537ebafc3cb52be95db0dbbd24ad\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+206        </service>
+207        <service
+207-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+208            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+208-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+209            android:exported="false"
+209-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+210            android:permission="android.permission.BIND_JOB_SERVICE" >
+210-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+211        </service>
+212
 213        <receiver
-213-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-214            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-214-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-215            android:directBootAware="false"
-215-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-216            android:enabled="true"
-216-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-217            android:exported="true"
-217-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-218            android:permission="android.permission.DUMP" >
-218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-219            <intent-filter>
-219-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-220                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-221            </intent-filter>
+213-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+214            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+214-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+215            android:exported="false" />
+215-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\ACER\.gradle\caches\transforms-3\ea4755e51729b27598bf512640463b69\transformed\transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+216        <receiver
+216-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+217            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+217-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+218            android:directBootAware="false"
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+219            android:enabled="true"
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+220            android:exported="true"
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+221            android:permission="android.permission.DUMP" >
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 222            <intent-filter>
-222-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-223                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+223                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 224            </intent-filter>
 225            <intent-filter>
-225-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-226                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-226-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-226-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+226                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 227            </intent-filter>
 228            <intent-filter>
-228-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-229                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-229-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-229-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+229                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 230            </intent-filter>
-231        </receiver>
-232    </application>
-233
-234</manifest>
+231            <intent-filter>
+231-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+232                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+232-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+232-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ACER\.gradle\caches\transforms-3\c2fbce2f037603813fc817f3090d5d7f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+233            </intent-filter>
+234        </receiver>
+235    </application>
+236
+237</manifest>

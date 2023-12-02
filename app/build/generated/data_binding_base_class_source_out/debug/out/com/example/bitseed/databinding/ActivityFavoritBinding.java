@@ -4,20 +4,143 @@ package com.example.bitseed.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.example.bitseed.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityFavoritBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  private ActivityFavoritBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final LinearLayout bottomNavigation;
+
+  @NonNull
+  public final LinearLayout card1;
+
+  @NonNull
+  public final LinearLayout card2;
+
+  @NonNull
+  public final LinearLayout card3;
+
+  @NonNull
+  public final LinearLayout card4;
+
+  @NonNull
+  public final LinearLayout card5;
+
+  @NonNull
+  public final ImageView delete1;
+
+  @NonNull
+  public final ImageView delete2;
+
+  @NonNull
+  public final ImageView delete3;
+
+  @NonNull
+  public final ImageView delete4;
+
+  @NonNull
+  public final ImageView delete5;
+
+  @NonNull
+  public final LinearLayout hero;
+
+  @NonNull
+  public final ImageView homeNav;
+
+  @NonNull
+  public final TextView kategoriBuah1;
+
+  @NonNull
+  public final TextView kategoriBuah2;
+
+  @NonNull
+  public final TextView kategoriBuah3;
+
+  @NonNull
+  public final TextView kategoriBuah4;
+
+  @NonNull
+  public final TextView kategoriBuah5;
+
+  @NonNull
+  public final ImageView learnNav;
+
+  @NonNull
+  public final TextView namaBuah1;
+
+  @NonNull
+  public final TextView namaBuah2;
+
+  @NonNull
+  public final TextView namaBuah3;
+
+  @NonNull
+  public final TextView namaBuah4;
+
+  @NonNull
+  public final TextView namaBuah5;
+
+  @NonNull
+  public final ImageView profileNav;
+
+  @NonNull
+  public final ImageView shopNav;
+
+  @NonNull
+  public final ImageView toLearn;
+
+  private ActivityFavoritBinding(@NonNull ConstraintLayout rootView,
+      @NonNull LinearLayout bottomNavigation, @NonNull LinearLayout card1,
+      @NonNull LinearLayout card2, @NonNull LinearLayout card3, @NonNull LinearLayout card4,
+      @NonNull LinearLayout card5, @NonNull ImageView delete1, @NonNull ImageView delete2,
+      @NonNull ImageView delete3, @NonNull ImageView delete4, @NonNull ImageView delete5,
+      @NonNull LinearLayout hero, @NonNull ImageView homeNav, @NonNull TextView kategoriBuah1,
+      @NonNull TextView kategoriBuah2, @NonNull TextView kategoriBuah3,
+      @NonNull TextView kategoriBuah4, @NonNull TextView kategoriBuah5, @NonNull ImageView learnNav,
+      @NonNull TextView namaBuah1, @NonNull TextView namaBuah2, @NonNull TextView namaBuah3,
+      @NonNull TextView namaBuah4, @NonNull TextView namaBuah5, @NonNull ImageView profileNav,
+      @NonNull ImageView shopNav, @NonNull ImageView toLearn) {
     this.rootView = rootView;
+    this.bottomNavigation = bottomNavigation;
+    this.card1 = card1;
+    this.card2 = card2;
+    this.card3 = card3;
+    this.card4 = card4;
+    this.card5 = card5;
+    this.delete1 = delete1;
+    this.delete2 = delete2;
+    this.delete3 = delete3;
+    this.delete4 = delete4;
+    this.delete5 = delete5;
+    this.hero = hero;
+    this.homeNav = homeNav;
+    this.kategoriBuah1 = kategoriBuah1;
+    this.kategoriBuah2 = kategoriBuah2;
+    this.kategoriBuah3 = kategoriBuah3;
+    this.kategoriBuah4 = kategoriBuah4;
+    this.kategoriBuah5 = kategoriBuah5;
+    this.learnNav = learnNav;
+    this.namaBuah1 = namaBuah1;
+    this.namaBuah2 = namaBuah2;
+    this.namaBuah3 = namaBuah3;
+    this.namaBuah4 = namaBuah4;
+    this.namaBuah5 = namaBuah5;
+    this.profileNav = profileNav;
+    this.shopNav = shopNav;
+    this.toLearn = toLearn;
   }
 
   @Override
@@ -43,10 +166,178 @@ public final class ActivityFavoritBinding implements ViewBinding {
 
   @NonNull
   public static ActivityFavoritBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.bottomNavigation;
+      LinearLayout bottomNavigation = ViewBindings.findChildViewById(rootView, id);
+      if (bottomNavigation == null) {
+        break missingId;
+      }
 
-    return new ActivityFavoritBinding((ConstraintLayout) rootView);
+      id = R.id.card1;
+      LinearLayout card1 = ViewBindings.findChildViewById(rootView, id);
+      if (card1 == null) {
+        break missingId;
+      }
+
+      id = R.id.card2;
+      LinearLayout card2 = ViewBindings.findChildViewById(rootView, id);
+      if (card2 == null) {
+        break missingId;
+      }
+
+      id = R.id.card3;
+      LinearLayout card3 = ViewBindings.findChildViewById(rootView, id);
+      if (card3 == null) {
+        break missingId;
+      }
+
+      id = R.id.card4;
+      LinearLayout card4 = ViewBindings.findChildViewById(rootView, id);
+      if (card4 == null) {
+        break missingId;
+      }
+
+      id = R.id.card5;
+      LinearLayout card5 = ViewBindings.findChildViewById(rootView, id);
+      if (card5 == null) {
+        break missingId;
+      }
+
+      id = R.id.delete1;
+      ImageView delete1 = ViewBindings.findChildViewById(rootView, id);
+      if (delete1 == null) {
+        break missingId;
+      }
+
+      id = R.id.delete2;
+      ImageView delete2 = ViewBindings.findChildViewById(rootView, id);
+      if (delete2 == null) {
+        break missingId;
+      }
+
+      id = R.id.delete3;
+      ImageView delete3 = ViewBindings.findChildViewById(rootView, id);
+      if (delete3 == null) {
+        break missingId;
+      }
+
+      id = R.id.delete4;
+      ImageView delete4 = ViewBindings.findChildViewById(rootView, id);
+      if (delete4 == null) {
+        break missingId;
+      }
+
+      id = R.id.delete5;
+      ImageView delete5 = ViewBindings.findChildViewById(rootView, id);
+      if (delete5 == null) {
+        break missingId;
+      }
+
+      id = R.id.hero;
+      LinearLayout hero = ViewBindings.findChildViewById(rootView, id);
+      if (hero == null) {
+        break missingId;
+      }
+
+      id = R.id.home_nav;
+      ImageView homeNav = ViewBindings.findChildViewById(rootView, id);
+      if (homeNav == null) {
+        break missingId;
+      }
+
+      id = R.id.kategoriBuah1;
+      TextView kategoriBuah1 = ViewBindings.findChildViewById(rootView, id);
+      if (kategoriBuah1 == null) {
+        break missingId;
+      }
+
+      id = R.id.kategoriBuah2;
+      TextView kategoriBuah2 = ViewBindings.findChildViewById(rootView, id);
+      if (kategoriBuah2 == null) {
+        break missingId;
+      }
+
+      id = R.id.kategoriBuah3;
+      TextView kategoriBuah3 = ViewBindings.findChildViewById(rootView, id);
+      if (kategoriBuah3 == null) {
+        break missingId;
+      }
+
+      id = R.id.kategoriBuah4;
+      TextView kategoriBuah4 = ViewBindings.findChildViewById(rootView, id);
+      if (kategoriBuah4 == null) {
+        break missingId;
+      }
+
+      id = R.id.kategoriBuah5;
+      TextView kategoriBuah5 = ViewBindings.findChildViewById(rootView, id);
+      if (kategoriBuah5 == null) {
+        break missingId;
+      }
+
+      id = R.id.learn_nav;
+      ImageView learnNav = ViewBindings.findChildViewById(rootView, id);
+      if (learnNav == null) {
+        break missingId;
+      }
+
+      id = R.id.namaBuah1;
+      TextView namaBuah1 = ViewBindings.findChildViewById(rootView, id);
+      if (namaBuah1 == null) {
+        break missingId;
+      }
+
+      id = R.id.namaBuah2;
+      TextView namaBuah2 = ViewBindings.findChildViewById(rootView, id);
+      if (namaBuah2 == null) {
+        break missingId;
+      }
+
+      id = R.id.namaBuah3;
+      TextView namaBuah3 = ViewBindings.findChildViewById(rootView, id);
+      if (namaBuah3 == null) {
+        break missingId;
+      }
+
+      id = R.id.namaBuah4;
+      TextView namaBuah4 = ViewBindings.findChildViewById(rootView, id);
+      if (namaBuah4 == null) {
+        break missingId;
+      }
+
+      id = R.id.namaBuah5;
+      TextView namaBuah5 = ViewBindings.findChildViewById(rootView, id);
+      if (namaBuah5 == null) {
+        break missingId;
+      }
+
+      id = R.id.profile_nav;
+      ImageView profileNav = ViewBindings.findChildViewById(rootView, id);
+      if (profileNav == null) {
+        break missingId;
+      }
+
+      id = R.id.shop_nav;
+      ImageView shopNav = ViewBindings.findChildViewById(rootView, id);
+      if (shopNav == null) {
+        break missingId;
+      }
+
+      id = R.id.to_learn;
+      ImageView toLearn = ViewBindings.findChildViewById(rootView, id);
+      if (toLearn == null) {
+        break missingId;
+      }
+
+      return new ActivityFavoritBinding((ConstraintLayout) rootView, bottomNavigation, card1, card2,
+          card3, card4, card5, delete1, delete2, delete3, delete4, delete5, hero, homeNav,
+          kategoriBuah1, kategoriBuah2, kategoriBuah3, kategoriBuah4, kategoriBuah5, learnNav,
+          namaBuah1, namaBuah2, namaBuah3, namaBuah4, namaBuah5, profileNav, shopNav, toLearn);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

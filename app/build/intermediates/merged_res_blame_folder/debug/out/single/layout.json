@@ -1,130 +1,142 @@
 [
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_home_page.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_home_page.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\tutorial_detail.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\tutorial_detail.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_apel_fuji.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_apel_fuji.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_pepaya.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_pepaya.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_chatbot.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_chatbot.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_favorit.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_favorit.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_lidah_mertua.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_lidah_mertua.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_anggrek.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_anggrek.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_anorganik.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_anorganik.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\chat_item.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\chat_item.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_learn.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_anggrek.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_anggrek.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_lidah_mertua.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_lidah_mertua.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_wortel.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_wortel.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_durian.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_durian.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_begonia.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_begonia.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_apel_fuji.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_apel_fuji.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_shop.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_shop.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_learn_anorganik.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_learn_anorganik.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/chat_item.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/chat_item.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_tomat.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_tomat.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_profile.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_profile.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_shop.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_shop.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_buah.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_buah.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_shop_maps.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_shop_maps.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_organik.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_organik.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_pepaya.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_pepaya.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_kentang.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_kentang.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_shop_maps.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_shop_maps.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_test.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_test.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_main.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_pisang.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_pisang.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_test.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_test.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_learn_buah.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_learn_buah.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_mangga_kio.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_mangga_kio.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_wortel.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_wortel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_splash_screen.xml"
     },
     {
         "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_komunitas.xml",
         "source": "com.example.bitseed.app-main-38:/layout/activity_komunitas.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_tomat.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_tomat.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_pisang.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_pisang.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_durian.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_durian.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_learn_hias.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_learn_hias.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_sayur.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_sayur.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_komunitas.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_komunitas.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_learn_hias.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_learn_hias.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_begonia.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_begonia.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_favorit.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_favorit.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_pakcoy.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_pakcoy.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_login.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_login.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_chatbot.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_chatbot.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_kentang.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_kentang.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_chat_ai.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_chat_ai.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_register.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_register.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_learn_sayur.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_learn_sayur.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/tutorial_detail.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/tutorial_detail.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_mangga_kio.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_mangga_kio.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_splash_screen.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_home_page.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_home_page.xml"
     },
     {
-        "merged": "com.example.bitseed.app-mergeDebugResources-35:/layout/activity_pakcoy.xml",
-        "source": "com.example.bitseed.app-main-38:/layout/activity_pakcoy.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_learn_organik.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_learn_organik.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-mergeDebugResources-35:\\layout\\activity_learn.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.example.bitseed.app-main-38:\\layout\\activity_learn.xml"
     }
 ]

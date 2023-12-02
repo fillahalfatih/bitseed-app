@@ -1,9 +1,409 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Favorit">
 
+    <!--  Container  -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="85dp">
+            <!--  Hero  -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="245dp"
+                android:background="@color/green_primary"
+                android:orientation="vertical"
+                android:id="@+id/hero">
+                <ImageView
+                    android:layout_width="260dp"
+                    android:layout_height="365dp"
+                    android:src="@drawable/plant_full"
+                    android:layout_marginBottom="-345dp"
+                    android:layout_marginLeft="-90dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp">
+                    <ImageView
+                        android:id="@+id/to_learn"
+                        android:layout_width="26dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/back"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Favorit Produk"
+                        android:textColor="@color/white"
+                        android:textSize="16sp"
+                        android:textAlignment="textEnd"
+                        android:layout_gravity="center_vertical"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_centerInParent="true"
+                    android:paddingTop="20dp"
+                    android:paddingBottom="20dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/menu_card"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:layout_width="80dp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/square_pattern"
+                            android:layout_marginTop="-35dp"
+                            android:layout_marginBottom="-67dp"
+                            android:layout_marginLeft="-17dp"/>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                            <ImageView
+                                android:layout_width="55dp"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/favorit"
+                                android:layout_gravity="center_vertical"/>
+                            <TextView
+                                android:layout_gravity="center_vertical"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Tambah bibit atau pupuk favorit"
+                                android:textAlignment="textStart"
+                                android:textSize="28sp"
+                                android:textStyle="bold"
+                                android:lineHeight="45dp"
+                                android:textColor="#454545"
+                                android:layout_marginLeft="16dp"/>
+                        </LinearLayout>
+                        <ImageView
+                            android:layout_width="80dp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/square_pattern"
+                            android:layout_marginTop="-65dp"
+                            android:layout_marginLeft="275dp"
+                            android:layout_marginBottom="-32dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp">
+
+                <LinearLayout
+                    android:id="@+id/card1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="6">
+                    <ImageView
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="75dp"
+                        android:src="@drawable/mangga_kio"/>
+                    <LinearLayout
+                        android:layout_weight="4"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:id="@+id/namaBuah1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="#454545"
+                            android:layout_marginBottom="4dp"/>
+                        <TextView
+                            android:id="@+id/kategoriBuah1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:lineHeight="18sp"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+                    <ImageView
+                        android:id="@+id/delete1"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/delete"
+                        android:layout_gravity="center_vertical"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/card2"
+                    android:layout_marginTop="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="6">
+                    <ImageView
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/apel_fuji"/>
+                    <LinearLayout
+                        android:layout_weight="4"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:id="@+id/namaBuah2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="#454545"
+                            android:layout_marginBottom="4dp"/>
+                        <TextView
+                            android:id="@+id/kategoriBuah2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:lineHeight="18sp"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+                    <ImageView
+                        android:id="@+id/delete2"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/delete"
+                        android:layout_gravity="center_vertical"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/card3"
+                    android:layout_marginTop="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="6">
+                    <ImageView
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/pisang"/>
+                    <LinearLayout
+                        android:layout_weight="4"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:id="@+id/namaBuah3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="#454545"
+                            android:layout_marginBottom="4dp"/>
+                        <TextView
+                            android:id="@+id/kategoriBuah3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:lineHeight="18sp"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+                    <ImageView
+                        android:id="@+id/delete3"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/delete"
+                        android:layout_gravity="center_vertical"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/card4"
+                    android:layout_marginTop="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="6">
+                    <ImageView
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/pepaya"/>
+                    <LinearLayout
+                        android:layout_weight="4"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:id="@+id/namaBuah4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="#454545"
+                            android:layout_marginBottom="4dp"/>
+                        <TextView
+                            android:id="@+id/kategoriBuah4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:lineHeight="18sp"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+                    <ImageView
+                        android:id="@+id/delete4"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/delete"
+                        android:layout_gravity="center_vertical"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/card5"
+                    android:layout_marginTop="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="6">
+                    <ImageView
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/durian"/>
+                    <LinearLayout
+                        android:layout_weight="4"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:id="@+id/namaBuah5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="#454545"
+                            android:layout_marginBottom="4dp"/>
+                        <TextView
+                            android:id="@+id/kategoriBuah5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:lineHeight="18sp"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+                    <ImageView
+                        android:id="@+id/delete5"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/delete"
+                        android:layout_gravity="center_vertical"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <!--  Navigasi  -->
+    <LinearLayout
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:orientation="horizontal"
+        android:background="@drawable/navigation_bg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintVertical_bias="1.0"
+        android:paddingTop="18dp"
+        android:paddingBottom="18dp">
+
+        <!-- Home -->
+        <ImageView
+            android:id="@+id/home_nav"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/home_filled"
+            android:contentDescription="Home"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <!-- Belajar -->
+        <ImageView
+            android:id="@+id/learn_nav"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/learn"
+            android:contentDescription="Belajar"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <!-- Profil -->
+        <ImageView
+            android:id="@+id/shop_nav"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/shop"
+            android:contentDescription="Profil"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <!-- Toko -->
+        <ImageView
+            android:id="@+id/profile_nav"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/profile"
+            android:contentDescription="Toko"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:focusable="true"/>
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

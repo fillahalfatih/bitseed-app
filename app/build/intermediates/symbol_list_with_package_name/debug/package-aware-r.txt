@@ -3406,6 +3406,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable delete
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -3671,9 +3672,15 @@ id btn01
 id buttonLogin
 id buttonPanel
 id buttonRegister
+id buttonSave
 id cache_measures
 id callMeasure
 id cancel_button
+id card1
+id card2
+id card3
+id card4
+id card5
 id cardAnggrek
 id cardAnorganik
 id cardApel
@@ -3739,6 +3746,11 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id delete1
+id delete2
+id delete3
+id delete4
+id delete5
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -3774,6 +3786,8 @@ id editTextPassword
 id editTextPasswordNew
 id edit_query
 id elastic
+id email
+id emailPengguna
 id embed
 id end
 id endToStart
@@ -3784,6 +3798,11 @@ id expand_activities_button
 id expanded_menu
 id fade
 id favorit
+id favorit1
+id favorit2
+id favorit3
+id favorit4
+id favorit5
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3838,6 +3857,11 @@ id jumpToEnd
 id jumpToStart
 id kategori
 id kategoriBuah
+id kategoriBuah1
+id kategoriBuah2
+id kategoriBuah3
+id kategoriBuah4
+id kategoriBuah5
 id komunitas
 id labeled
 id lahan
@@ -3922,6 +3946,11 @@ id myImageView1
 id myImageView2
 id nama
 id namaBuah
+id namaBuah1
+id namaBuah2
+id namaBuah3
+id namaBuah4
+id namaBuah5
 id namaToko1
 id namaToko2
 id namaToko3
@@ -4080,6 +4109,8 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id status
+id statusPengguna
 id stop
 id stretch
 id submenuarrow
@@ -4126,6 +4157,7 @@ id titleBibit
 id titleDividerNoCustom
 id titlePupuk
 id title_template
+id toWeb
 id to_buah
 id to_learn
 id toggle
@@ -4141,7 +4173,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tvEmail
 id tvResult
 id unchecked
 id uniform
@@ -4288,6 +4319,7 @@ layout activity_apel_fuji
 layout activity_begonia
 layout activity_chatbot
 layout activity_durian
+layout activity_edit
 layout activity_favorit
 layout activity_home_page
 layout activity_kentang

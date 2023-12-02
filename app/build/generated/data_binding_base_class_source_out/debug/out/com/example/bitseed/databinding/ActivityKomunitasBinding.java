@@ -4,20 +4,52 @@ package com.example.bitseed.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.example.bitseed.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityKomunitasBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  private ActivityKomunitasBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final LinearLayout bottomNavigation;
+
+  @NonNull
+  public final ImageView homeNav;
+
+  @NonNull
+  public final ImageView learnNav;
+
+  @NonNull
+  public final ImageView profileNav;
+
+  @NonNull
+  public final ImageView shopNav;
+
+  @NonNull
+  public final Button toWeb;
+
+  private ActivityKomunitasBinding(@NonNull ConstraintLayout rootView,
+      @NonNull LinearLayout bottomNavigation, @NonNull ImageView homeNav,
+      @NonNull ImageView learnNav, @NonNull ImageView profileNav, @NonNull ImageView shopNav,
+      @NonNull Button toWeb) {
     this.rootView = rootView;
+    this.bottomNavigation = bottomNavigation;
+    this.homeNav = homeNav;
+    this.learnNav = learnNav;
+    this.profileNav = profileNav;
+    this.shopNav = shopNav;
+    this.toWeb = toWeb;
   }
 
   @Override
@@ -43,10 +75,50 @@ public final class ActivityKomunitasBinding implements ViewBinding {
 
   @NonNull
   public static ActivityKomunitasBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.bottomNavigation;
+      LinearLayout bottomNavigation = ViewBindings.findChildViewById(rootView, id);
+      if (bottomNavigation == null) {
+        break missingId;
+      }
 
-    return new ActivityKomunitasBinding((ConstraintLayout) rootView);
+      id = R.id.home_nav;
+      ImageView homeNav = ViewBindings.findChildViewById(rootView, id);
+      if (homeNav == null) {
+        break missingId;
+      }
+
+      id = R.id.learn_nav;
+      ImageView learnNav = ViewBindings.findChildViewById(rootView, id);
+      if (learnNav == null) {
+        break missingId;
+      }
+
+      id = R.id.profile_nav;
+      ImageView profileNav = ViewBindings.findChildViewById(rootView, id);
+      if (profileNav == null) {
+        break missingId;
+      }
+
+      id = R.id.shop_nav;
+      ImageView shopNav = ViewBindings.findChildViewById(rootView, id);
+      if (shopNav == null) {
+        break missingId;
+      }
+
+      id = R.id.toWeb;
+      Button toWeb = ViewBindings.findChildViewById(rootView, id);
+      if (toWeb == null) {
+        break missingId;
+      }
+
+      return new ActivityKomunitasBinding((ConstraintLayout) rootView, bottomNavigation, homeNav,
+          learnNav, profileNav, shopNav, toWeb);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

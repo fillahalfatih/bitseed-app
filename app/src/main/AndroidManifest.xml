@@ -20,6 +20,9 @@
         android:theme="@style/Theme.BitSeed"
         tools:targetApi="31">
         <activity
+            android:name=".Edit"
+            android:exported="false" />
+        <activity
             android:name=".Begonia"
             android:exported="false" />
         <activity

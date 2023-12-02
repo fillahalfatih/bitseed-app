@@ -31,6 +31,9 @@ public final class ActivityProfileBinding implements ViewBinding {
   public final TextView edit;
 
   @NonNull
+  public final TextView emailPengguna;
+
+  @NonNull
   public final ImageView homeNav;
 
   @NonNull
@@ -43,25 +46,27 @@ public final class ActivityProfileBinding implements ViewBinding {
   public final ImageView shopNav;
 
   @NonNull
-  public final LinearLayout topNav;
+  public final TextView statusPengguna;
 
   @NonNull
-  public final TextView tvEmail;
+  public final LinearLayout topNav;
 
   private ActivityProfileBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView backNav,
-      @NonNull LinearLayout bottomNavigation, @NonNull TextView edit, @NonNull ImageView homeNav,
-      @NonNull ImageView learnNav, @NonNull TextView logout, @NonNull ImageView shopNav,
-      @NonNull LinearLayout topNav, @NonNull TextView tvEmail) {
+      @NonNull LinearLayout bottomNavigation, @NonNull TextView edit,
+      @NonNull TextView emailPengguna, @NonNull ImageView homeNav, @NonNull ImageView learnNav,
+      @NonNull TextView logout, @NonNull ImageView shopNav, @NonNull TextView statusPengguna,
+      @NonNull LinearLayout topNav) {
     this.rootView = rootView;
     this.backNav = backNav;
     this.bottomNavigation = bottomNavigation;
     this.edit = edit;
+    this.emailPengguna = emailPengguna;
     this.homeNav = homeNav;
     this.learnNav = learnNav;
     this.logout = logout;
     this.shopNav = shopNav;
+    this.statusPengguna = statusPengguna;
     this.topNav = topNav;
-    this.tvEmail = tvEmail;
   }
 
   @Override
@@ -109,6 +114,12 @@ public final class ActivityProfileBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.emailPengguna;
+      TextView emailPengguna = ViewBindings.findChildViewById(rootView, id);
+      if (emailPengguna == null) {
+        break missingId;
+      }
+
       id = R.id.home_nav;
       ImageView homeNav = ViewBindings.findChildViewById(rootView, id);
       if (homeNav == null) {
@@ -133,20 +144,20 @@ public final class ActivityProfileBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.statusPengguna;
+      TextView statusPengguna = ViewBindings.findChildViewById(rootView, id);
+      if (statusPengguna == null) {
+        break missingId;
+      }
+
       id = R.id.topNav;
       LinearLayout topNav = ViewBindings.findChildViewById(rootView, id);
       if (topNav == null) {
         break missingId;
       }
 
-      id = R.id.tvEmail;
-      TextView tvEmail = ViewBindings.findChildViewById(rootView, id);
-      if (tvEmail == null) {
-        break missingId;
-      }
-
       return new ActivityProfileBinding((ConstraintLayout) rootView, backNav, bottomNavigation,
-          edit, homeNav, learnNav, logout, shopNav, topNav, tvEmail);
+          edit, emailPengguna, homeNav, learnNav, logout, shopNav, statusPengguna, topNav);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

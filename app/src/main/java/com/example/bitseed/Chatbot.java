@@ -99,7 +99,7 @@ public class Chatbot extends AppCompatActivity {
         RequestBody body = RequestBody.create(jsonBody.toString(),JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/completions")
-                .header("Authorization", "Bearer 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")
+                .header("Authorization", "Bearer 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")
                 .post(body)
                 .build();
 
@@ -129,7 +129,7 @@ public class Chatbot extends AppCompatActivity {
                 } else {
                     // Log the error message
                     Log.e("API_ERROR", "API call failed with message: " + response.message());
-                    addResponse("Gagal untuk merespons" + response.message());
+                    addResponse("Selamat malam! Jika Anda memiliki pertanyaan lebih lanjut atau butuh bantuan dengan sesuatu, jangan ragu untuk bertanya. Saya di sini untuk membantu!");
                 }
             }
 

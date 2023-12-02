@@ -39,6 +39,21 @@ public final class ActivityLearnBuahBinding implements ViewBinding {
   public final LinearLayout cardPisang;
 
   @NonNull
+  public final ImageView favorit1;
+
+  @NonNull
+  public final ImageView favorit2;
+
+  @NonNull
+  public final ImageView favorit3;
+
+  @NonNull
+  public final ImageView favorit4;
+
+  @NonNull
+  public final ImageView favorit5;
+
+  @NonNull
   public final LinearLayout hero;
 
   @NonNull
@@ -60,8 +75,10 @@ public final class ActivityLearnBuahBinding implements ViewBinding {
       @NonNull LinearLayout bottomNavigation, @NonNull LinearLayout cardApel,
       @NonNull LinearLayout cardDurian, @NonNull LinearLayout cardMangga,
       @NonNull LinearLayout cardPepaya, @NonNull LinearLayout cardPisang,
-      @NonNull LinearLayout hero, @NonNull ImageView homeNav, @NonNull ImageView profileNav,
-      @NonNull ImageView shopNav, @NonNull LinearLayout titleBibit, @NonNull ImageView toLearn) {
+      @NonNull ImageView favorit1, @NonNull ImageView favorit2, @NonNull ImageView favorit3,
+      @NonNull ImageView favorit4, @NonNull ImageView favorit5, @NonNull LinearLayout hero,
+      @NonNull ImageView homeNav, @NonNull ImageView profileNav, @NonNull ImageView shopNav,
+      @NonNull LinearLayout titleBibit, @NonNull ImageView toLearn) {
     this.rootView = rootView;
     this.bottomNavigation = bottomNavigation;
     this.cardApel = cardApel;
@@ -69,6 +86,11 @@ public final class ActivityLearnBuahBinding implements ViewBinding {
     this.cardMangga = cardMangga;
     this.cardPepaya = cardPepaya;
     this.cardPisang = cardPisang;
+    this.favorit1 = favorit1;
+    this.favorit2 = favorit2;
+    this.favorit3 = favorit3;
+    this.favorit4 = favorit4;
+    this.favorit5 = favorit5;
     this.hero = hero;
     this.homeNav = homeNav;
     this.profileNav = profileNav;
@@ -140,6 +162,36 @@ public final class ActivityLearnBuahBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.favorit1;
+      ImageView favorit1 = ViewBindings.findChildViewById(rootView, id);
+      if (favorit1 == null) {
+        break missingId;
+      }
+
+      id = R.id.favorit2;
+      ImageView favorit2 = ViewBindings.findChildViewById(rootView, id);
+      if (favorit2 == null) {
+        break missingId;
+      }
+
+      id = R.id.favorit3;
+      ImageView favorit3 = ViewBindings.findChildViewById(rootView, id);
+      if (favorit3 == null) {
+        break missingId;
+      }
+
+      id = R.id.favorit4;
+      ImageView favorit4 = ViewBindings.findChildViewById(rootView, id);
+      if (favorit4 == null) {
+        break missingId;
+      }
+
+      id = R.id.favorit5;
+      ImageView favorit5 = ViewBindings.findChildViewById(rootView, id);
+      if (favorit5 == null) {
+        break missingId;
+      }
+
       id = R.id.hero;
       LinearLayout hero = ViewBindings.findChildViewById(rootView, id);
       if (hero == null) {
@@ -177,8 +229,8 @@ public final class ActivityLearnBuahBinding implements ViewBinding {
       }
 
       return new ActivityLearnBuahBinding((ConstraintLayout) rootView, bottomNavigation, cardApel,
-          cardDurian, cardMangga, cardPepaya, cardPisang, hero, homeNav, profileNav, shopNav,
-          titleBibit, toLearn);
+          cardDurian, cardMangga, cardPepaya, cardPisang, favorit1, favorit2, favorit3, favorit4,
+          favorit5, hero, homeNav, profileNav, shopNav, titleBibit, toLearn);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
